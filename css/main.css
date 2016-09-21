@@ -1,0 +1,28 @@
+/* Inserta tu código aquí */
+.navbar{
+	background-color:#DF6C6C ;
+}
+.fondo{
+	background-image: url(../img/creamy.jpg);
+	background-repeat: no-repeat;
+	width: 100%;
+	padding: 30%;
+}
+
+.txt{
+	background-color: rgba(10,124,142,0.8);
+	width: 100%;
+
+}
+.helado{
+	background:#EC87AD;
+}
+.parrafo{
+	margin-top: 15%;
+}
+.cono{
+	margin-top: 8%;
+}
+.contenido{
+	background: #E59393;
+}
