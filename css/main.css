@@ -1,28 +1,67 @@
-/* Inserta tu código aquí */
+*{
+	font-family:"family Merriweather"
+}
+
 .navbar{
-	background-color:#DF6C6C ;
+	background-color: #f4f0bb;
+	margin-bottom:0%;
+	border:none;
+	border-radius:0;
+}
+.navbar-default .navbar-brand{
+	color: #da2c38;
+}
+.navbar-default .navbar-nav li a {
+	color: #da2c38;
+}
+
+.oscuro{
+	background-color:black;
+
 }
 .fondo{
-	background-image: url(../img/creamy.jpg);
+	background-image:url(../img/helados.jpg);
 	background-repeat: no-repeat;
-	width: 100%;
-	padding: 30%;
+	background-position:center;
+	opacity:0.5;
+	padding:20%;
+}
+.foto{
+	padding:-10%;
+}
+.best{
+	color:black;
+
 }
 
-.txt{
-	background-color: rgba(10,124,142,0.8);
-	width: 100%;
+.creamy{
+	background-color: #F4F0BB;
+	padding:2%;
+}
 
+.about{
+	background-color:#DA2C38;
+	padding:2%; 
 }
-.helado{
-	background:#EC87AD;
+.tip{
+	background-color:#F4F0BB;
+	padding:6%;
+} 
+.glyphicon{
+	font-size:70px;
+	color:#DA2C38; 
 }
-.parrafo{
-	margin-top: 15%;
+.oh{
+	color:#DA2C38;
 }
-.cono{
-	margin-top: 8%;
+.crem{
+	color:#F4F0BB;
 }
-.contenido{
-	background: #E59393;
+.love{
+	color: #da2c38;
+}
+footer{
+	background-color:#DA2C38;
+	color:#F4F0BB;
+	padding:1%;
 }
